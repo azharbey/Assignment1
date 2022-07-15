@@ -1,0 +1,1 @@
+Continuous Delivery is the automation of steps to safely get changes into production. Where Continuous Deployment focuses on the actual deployment, Continuous Delivery focuses on the release and release strategy. An elusive goal would be a “push of a button” to get changes into production.
